@@ -11,7 +11,7 @@ Python + opencv
   - Use contours, convexHull and convexityDeffects for finger counting
 
 ![alt text](https://raw.githubusercontent.com/TomBozik/Hand-gesture-recognition/master/images/inrange_start.png)
-![alt text](https://raw.githubusercontent.com/TomBozik/Hand-gesture-recognition/master/images/inrang.png)
+![alt text](https://raw.githubusercontent.com/TomBozik/Hand-gesture-recognition/master/images/inrange.png)
 
 + hand_detection_absdiff.py
   - Capture background without hand
